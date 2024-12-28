@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
 <h1 align="center">Hi 👋, I'm Rakshithaa N</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*5OSbGu-5Z98IT8r76UJZbw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshithaa08&label=Profile%20views&color=0e75b6&style=flat" alt="rakshithaa08" /> </p>
