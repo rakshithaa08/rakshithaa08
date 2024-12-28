@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshithaa08&label=Profile%20views&color=0e75b6&style=flat" alt="rakshithaa08" /> </p>
 
-- 🔭 I’m currently working on **MultiCrop Disease Classification**
+- 🔭 I have worked on **MultiCrop Disease Classification**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
